@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Red Hat | Public Sector</title>
+    <link>http://redhatgov.io/events/</link>
+    <description>Recent content in Events on Red Hat | Public Sector</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://redhatgov.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DevNation Federal</title>
+      <link>http://redhatgov.io/events/20180605-devnation-federal-d28cbb978440bf03c49a088a412a20b6/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180605-devnation-federal-d28cbb978440bf03c49a088a412a20b6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Workshop</title>
+      <link>http://redhatgov.io/events/20180531-ansible-workshop-7a2229dd4164a9c5da511cf8160d3455/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180531-ansible-workshop-7a2229dd4164a9c5da511cf8160d3455/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RH OpenShift Container Platform on AWS Workshop Roadshow</title>
+      <link>http://redhatgov.io/events/20180531-rh-openshift-container-platform-on-aws-workshop-roadshow-9a439b3946cf597f9b4ba7aafc9344bc/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180531-rh-openshift-container-platform-on-aws-workshop-roadshow-9a439b3946cf597f9b4ba7aafc9344bc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RH OpenShift Container Platform on AWS Workshop Roadshow</title>
+      <link>http://redhatgov.io/events/20180530-rh-openshift-container-platform-on-aws-workshop-roadshow-97089afec69172f69011181112bc9c18/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180530-rh-openshift-container-platform-on-aws-workshop-roadshow-97089afec69172f69011181112bc9c18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federal Health IT Networking Social</title>
+      <link>http://redhatgov.io/events/20180523-federal-health-it-networking-social-2237681da2814b3f363989e46ce14a41/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180523-federal-health-it-networking-social-2237681da2814b3f363989e46ce14a41/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monoliths to Microservices: App Transformation Workshop</title>
+      <link>http://redhatgov.io/events/20180522-monoliths-to-microservices-app-transformation-workshop-11f07a0419cf8669f7ae81ba1ab095f5/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180522-monoliths-to-microservices-app-transformation-workshop-11f07a0419cf8669f7ae81ba1ab095f5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monoliths to Microservices: App Transformation Workshop</title>
+      <link>http://redhatgov.io/events/20180522-monoliths-to-microservices-app-transformation-workshop-20331c1eb7fdfa50605f0cc724afeee7/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180522-monoliths-to-microservices-app-transformation-workshop-20331c1eb7fdfa50605f0cc724afeee7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Container and Cloud Native Workshop</title>
+      <link>http://redhatgov.io/events/20180516-container-and-cloud-native-workshop-c0ce5614e04fe19c316526e96ea25a7e/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180516-container-and-cloud-native-workshop-c0ce5614e04fe19c316526e96ea25a7e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monoliths to Microservices: App Transformation Workshop</title>
+      <link>http://redhatgov.io/events/20180515-monoliths-to-microservices-app-transformation-workshop-7142c05d2bf47f95a7ac9343718914ef/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180515-monoliths-to-microservices-app-transformation-workshop-7142c05d2bf47f95a7ac9343718914ef/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
